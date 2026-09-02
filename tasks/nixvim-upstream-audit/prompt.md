@@ -43,6 +43,8 @@ Each run choose 5–8 active repositories not present in the most recent audits 
 - 1–2 LazyVim/distribution-inspired configurations
 - 1–2 project-oriented/modular configurations
 
+Before counting a rotating repository toward the 5–8 sample, validate that its current source URL resolves, the repository is not archived or disabled, and it still shows meaningful maintenance activity. Prefer repositories with meaningful pushes within roughly the last 12 months unless an older repository is intentionally used for historical comparison. Record missing, moved, archived, or materially stale official-list entries as skipped and replace them with another active sample; skipped entries do not count toward the 5–8 target.
+
 Do not repeat a rotating repository merely because it is familiar. Revisit one only when it materially changed or a specific capability comparison requires it.
 
 Record the exact repositories and audit date after every run.
